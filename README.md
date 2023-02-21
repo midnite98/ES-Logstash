@@ -1,4 +1,5 @@
-<p align="center"><a href="https://www.elastic.co/" target="_blank"><img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt5d10f3a91df97d15/620a9ac8849cd422f315b83d/logo-elastic-vertical-reverse.svg"></a></p>
+<p align="center"><a href="https://www.elastic.co/products/logstash" target="_blank"><img src="https://www.elastic.co/static-res/images/logos/logstash.png"></a></p>
+
 
 
 [![Django Version](https://img.shields.io/badge/django-3.2.7-green)](https://www.djangoproject.com/)
