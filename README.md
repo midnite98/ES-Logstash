@@ -1,7 +1,5 @@
 <p align="left"><a href="https://www.elastic.co/products/beats" target="_blank"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blta3a797dfc3d80de3/5d0c1b1977f34fd55839ab58/logo-beats-32-color.svg" width="100"> </a> <a href="https://www.elastic.co/products/elasticsearch" target="_blank"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg" width="100"> </a> <a href="https://www.elastic.co/products/logstash" target="_blank"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt8b679e63f2b49b27/5d082d93877575d0584761c0/logo-logstash-32-color.svg" width="100"> </a> <a href="https://www.elastic.co/products/kibana" target="_blank"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4466841eed0bf232/5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg" width="100"> </a></p>
 
-<a href="https://www.elastic.co/products/beats" target="_blank"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blta3a797dfc3d80de3/5d0c1b1977f34fd55839ab58/logo-beats-32-color.svg" width="100"> </a>
-
 [![Django Version](https://img.shields.io/badge/django-3.2.7-green)](https://www.djangoproject.com/)
 [![Logstash Version](https://img.shields.io/badge/logstash-7.16.2-green)](https://www.elastic.co/products/logstash)
 
