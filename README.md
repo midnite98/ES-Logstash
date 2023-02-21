@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.elastic.co/products/logstash" target="_blank"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt8b679e63f2b49b27/5d082d93877575d0584761c0/logo-logstash-32-color.svg"></a></p>
+<p align="center"><a href="https://www.elastic.co/products/logstash" target="_blank"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt8b679e63f2b49b27/5d082d93877575d0584761c0/logo-logstash-32-color.svg" width="400"> </a></p>
 
 
 
