@@ -13,6 +13,10 @@ My collection of Logstash projects that I have done before.
 - [Contributing](#contributing)
 - [License](#license)
 
+- Feature 1
+- Feature 2
+- Feature 3
+
 ## Introduction
 
 In this section, provide a brief introduction to your project. Explain what the project is, what problem it solves, and why it's useful.
