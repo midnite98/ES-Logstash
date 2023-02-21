@@ -1,15 +1,12 @@
 # ES-Logstash
+
 My collection of Logstash projects that I have done before.
-
-# Project Title
-
-Add a brief and catchy description of your project here.
 
 ## Table of Contents
 
 Add a table of contents with links to the different sections of your README. This will make it easy for users to navigate your document.
 
-- [Project Title](#project-title)
+- [ES-Logstash](#project-title)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
