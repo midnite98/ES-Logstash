@@ -4,8 +4,6 @@ My collection of Logstash projects that I have done before.
 
 ## Table of Contents
 
-Add a table of contents with links to the different sections of your README. This will make it easy for users to navigate your document.
-
 - [ES-Logstash](#es-logstash)
 - [Introduction](#introduction)
 - [Features](#features)
