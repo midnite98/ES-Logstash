@@ -1,3 +1,6 @@
+
+[![Django Version](https://img.shields.io/badge/django-3.2.7-green)](https://www.djangoproject.com/)
+
 ## ES-Logstash
 
 My collection of Logstash projects that I have done before.
