@@ -3,6 +3,14 @@
 [![Django Version](https://img.shields.io/badge/django-3.2.7-green)](https://www.djangoproject.com/)
 [![Logstash Version](https://img.shields.io/badge/logstash-7.16.2-green)](https://www.elastic.co/products/logstash)
 
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
+
+
 
 ## ES-Logstash
 
