@@ -1,5 +1,7 @@
 
 [![Django Version](https://img.shields.io/badge/django-3.2.7-green)](https://www.djangoproject.com/)
+[![Logstash Version](https://img.shields.io/badge/logstash-7.16.2-green)](https://www.elastic.co/products/logstash)
+
 
 ## ES-Logstash
 
