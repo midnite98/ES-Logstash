@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.elastic.co/what-is/elk-stack" target="_blank">
-    <img src="https://img.shields.io/badge/Elastic%20Stack-7.16.2-purple" alt="Elastic Stack Version">
+    <img src="https://img.shields.io/badge/Elastic%20Stack-7.16.2-#e99695" alt="Elastic Stack Version">
   </a>
   <a href="https://www.elastic.co/products/elasticsearch" target="_blank">
     <img src="https://img.shields.io/badge/Elasticsearch-7.16.2-blue" alt="Elasticsearch Version">
