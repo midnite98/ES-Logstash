@@ -14,9 +14,6 @@
     <img src="https://img.shields.io/badge/Kibana-7.16.2-yellow" alt="Kibana Version">
   </a>
 </p>
-note
-
-
 
 ## ES-Logstash
 
