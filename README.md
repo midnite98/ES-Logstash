@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Elastic%20Stack-7.16.2-#e99695" alt="Elastic Stack Version">
   </a>
   <a href="https://www.elastic.co/products/elasticsearch" target="_blank">
-    <img src="https://img.shields.io/badge/Elasticsearch-7.16.2-blue" alt="Elasticsearch Version">
+    <img src="https://img.shields.io/badge/Elasticsearch-7.16.2-red" alt="Elasticsearch Version">
   </a>
   <a href="https://www.elastic.co/products/logstash" target="_blank">
     <img src="https://img.shields.io/badge/Logstash-7.16.2-orange" alt="Logstash Version">
