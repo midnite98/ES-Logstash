@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.elastic.co/what-is/beats" target="_blank">
-    <img src="https://img.shields.io/badge/Elastic%20Stack-7.16.2-blue" alt="Beats Version">
+    <img src="https://img.shields.io/badge/Beats-7.16.2-blue" alt="Beats Version">
   </a>
   <a href="https://www.elastic.co/products/elasticsearch" target="_blank">
     <img src="https://img.shields.io/badge/Elasticsearch-7.16.2-red" alt="Elasticsearch Version">
